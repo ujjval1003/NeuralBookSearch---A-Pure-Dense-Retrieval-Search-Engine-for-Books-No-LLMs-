@@ -9,29 +9,3 @@
 
 venv/
 .env/
-
-# Data / Books
-
-*.pdf
-*.epub
-*.txt
-
-# Embeddings / Indexes
-
-*.pkl
-*.npy
-*.npz
-
-# Database dumps
-
-*.sql
-
-# OS
-
-.DS_Store
-Thumbs.db
-
-# IDE
-
-.vscode/
-.idea/
